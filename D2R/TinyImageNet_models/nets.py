@@ -1,0 +1,2 @@
+from TinyImageNet_models.wide_resnet import WideResNet
+from TinyImageNet_models.resnet import ResNet18_cifar
